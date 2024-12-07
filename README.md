@@ -1,1 +1,1 @@
-# TCMB ve Ziraat Bankasından güncel olarak çekilen döviz verilerinin analiz edilmesi 
+### Analyzing current foreign exchange data withdrawn from TCMB and Ziraat Bank 
